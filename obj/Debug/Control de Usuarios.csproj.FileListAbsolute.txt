@@ -1,0 +1,10 @@
+C:\Users\Marlon\Documents\proyectos\cSharp\Control de Usuarios\Control de Usuarios\bin\Debug\Control de Usuarios.exe.config
+C:\Users\Marlon\Documents\proyectos\cSharp\Control de Usuarios\Control de Usuarios\bin\Debug\Control de Usuarios.exe
+C:\Users\Marlon\Documents\proyectos\cSharp\Control de Usuarios\Control de Usuarios\bin\Debug\Control de Usuarios.pdb
+C:\Users\Marlon\Documents\proyectos\cSharp\Control de Usuarios\Control de Usuarios\obj\Debug\Control de Usuarios.csprojResolveAssemblyReference.cache
+C:\Users\Marlon\Documents\proyectos\cSharp\Control de Usuarios\Control de Usuarios\obj\Debug\Control_de_Usuarios.FrmPrincipal.resources
+C:\Users\Marlon\Documents\proyectos\cSharp\Control de Usuarios\Control de Usuarios\obj\Debug\Control_de_Usuarios.Properties.Resources.resources
+C:\Users\Marlon\Documents\proyectos\cSharp\Control de Usuarios\Control de Usuarios\obj\Debug\Control de Usuarios.csproj.GenerateResource.Cache
+C:\Users\Marlon\Documents\proyectos\cSharp\Control de Usuarios\Control de Usuarios\obj\Debug\Control de Usuarios.exe
+C:\Users\Marlon\Documents\proyectos\cSharp\Control de Usuarios\Control de Usuarios\obj\Debug\Control de Usuarios.pdb
+C:\Users\Marlon\Documents\proyectos\cSharp\Control de Usuarios\Control de Usuarios\obj\Debug\Control_de_Usuarios.Formulario_Registro.resources
